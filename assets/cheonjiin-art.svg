@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 440" role="img" aria-label="천지인 ○△□ — 하늘·땅·사람, 한글의 근본 / Heaven, Earth, Human — the roots of Hangeul">
+  <!-- ㅇ : 원 (하늘) blue circle with light-blue core -->
+  <circle cx="175" cy="255" r="140" fill="#1a1aff"/>
+  <circle cx="188" cy="262" r="44" fill="#8fd3f0"/>
+
+  <!-- △ : 삼각형 (사람) two-tone green triangle -->
+  <polygon points="500,110 405,395 500,395" fill="#2ec840"/>
+  <polygon points="500,110 500,395 595,395" fill="#0f8a1a"/>
+
+  <!-- □ : 사각형 (땅) pink over red square -->
+  <rect x="715" y="180" width="205" height="103" fill="#ffc0cb"/>
+  <rect x="715" y="283" width="205" height="112" fill="#ff0008"/>
+</svg>
