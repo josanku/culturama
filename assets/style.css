@@ -306,3 +306,9 @@ ul.es-list li b { color:var(--ink); }
   transition:transform .2s ease, opacity .2s ease;
 }
 .wehome-credit a:hover img { transform:translateY(-2px); opacity:.85; }
+
+/* ---------- K-culture domain tags ---------- */
+.ktags { display:flex; flex-wrap:wrap; gap:8px; margin:14px 0 4px; }
+.ktags span { font-family:var(--sans-ko); font-size:13px; letter-spacing:.04em;
+  padding:6px 13px; border-radius:999px; border:1px solid var(--line);
+  background:var(--paper-2); color:var(--gold-deep); font-weight:500; }
